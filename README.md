@@ -7,3 +7,7 @@ Refactored Code for Horiseon website including following fixes:
     Added website title
     Added code in HTML in order to properly navigate from link in nav bar
     
+Visit Site at:
+https://arjunkashmir.github.io/Homework-Challenge-1/
+
+image.png
